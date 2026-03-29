@@ -1,16 +1,19 @@
-## Hi there 👋
+# Raj Vardhan Patel
 
-<!--
-**watertech-rvpatel/watertech-rvpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Water Treatment Researcher | Membrane Technology | Desalination  
 
-Here are some ideas to get you started:
+## About Me
+I am a researcher specializing in membrane distillation, industrial wastewater treatment, and sustainable water recovery systems. My work focuses on CFD modeling, membrane fabrication, and pilot-scale system development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Areas
+- Membrane Distillation  
+- Zero Liquid Discharge (ZLD)  
+- CFD Modeling  
+- Industrial Wastewater Treatment  
+
+## Contact
+📧 rvpatel.knit@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/errvpatel  
+
+## Website
+👉 https://yourusername.github.io
